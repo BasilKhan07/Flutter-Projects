@@ -58,7 +58,7 @@ void main() {
               ),
             ),
       ),
-      themeMode: ThemeMode.light, // default
+      themeMode: ThemeMode.light,
       home: const Expenses(),
     ),
   );
